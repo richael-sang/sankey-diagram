@@ -1,0 +1,12 @@
+year 2
+grade
+Data base 98
+Discrete mathematics 96
+Java 100
+Computer system 90
+EAP 85
+CCT 75
+Chinese 99
+Math 97
+Biology 86
+Chemistry 78
